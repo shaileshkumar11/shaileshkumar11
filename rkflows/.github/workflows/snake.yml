@@ -1,11 +1,9 @@
 name: Generate Snake Animation
 
 on:
+  workflow_dispatch:
   push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 */12 * * *"
+    branches: [ "main" ]   # ← change to master if needed
 
 jobs:
   build:
@@ -14,17 +12,17 @@ jobs:
       contents: write
 
     steps:
-      - name: Clone repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: shaileshkumar11
           outputs:
             - dist/github-contribution-grid-snake.svg
 
-      - name: Push snake to output branch
+      - name: Publish to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
