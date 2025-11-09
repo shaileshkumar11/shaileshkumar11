@@ -93,7 +93,7 @@ Hi, I'm **ShaileshKumar Zanjare**
 
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4200&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+My+Embedded+World!;I'm+ShaileshKumar+Zanjare;Embedded+Systems+Engineer;%19C+STM32+%7C+FreeRTOS+%7C+IoT+%7C+Firmware+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4200&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+My+Embedded+World!;I'm+ShaileshKumar+Zanjare;Embedded+Systems+Engineer;STM32+%7C+FreeRTOS;IoT+%7C+Firmware+Developer">
 </h1>
 
 ---
