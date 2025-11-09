@@ -203,6 +203,15 @@ Hi, I'm **ShaileshKumar Zanjare**
 
 
 
+
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Firmware+Developer;Real-Time+Systems;Embedded+IoT+Engineer;STM32+%7C+FreeRTOS+%7C+CAN+%7C+ESP32;Coding+Hardware+Together">
+</h2>
+
+
+
+
 <!--
 
 <p align="center">
@@ -221,9 +230,8 @@ Hi, I'm **ShaileshKumar Zanjare**
 
 -->
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="90%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
 </p>
 
 
@@ -232,7 +240,6 @@ Hi, I'm **ShaileshKumar Zanjare**
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="600">
-</p>
+
+
 
