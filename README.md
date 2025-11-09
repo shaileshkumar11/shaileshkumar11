@@ -104,9 +104,6 @@ Hi, I'm **ShaileshKumar Zanjare**
 - 📩 Email: **`shaileshzanjareofficial@gmail.com`**
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="90%">
-</p>
 
 ## 🌐 Connect With Me
 <p align="center">
