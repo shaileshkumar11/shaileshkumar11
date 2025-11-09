@@ -1,7 +1,7 @@
 # 👋 Welcome to My Embedded World
 
 ## 💫 About Me  
-Hi, I'm **Shailesh Kumar Zanjare**  
+Hi, I'm **ShaileshKumar Zanjare**  
 🎓 Electronics & Telecommunication Engineer  
 🎯 PG-Diploma in **Embedded Systems & Design** (CDAC - Sunbeam Pune)  
 🔧 Passionate about **Firmware, RTOS, STM32, IoT & Real-Time Embedded Systems**  
