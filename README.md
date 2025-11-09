@@ -86,6 +86,9 @@ Hi, I'm **ShaileshKumar Zanjare**
 
 
 
+<!--
+<!--
+
 <!-- Top Animated Banner -->
 <p align="center">
   <img src="https://i.imgur.com/Z9a9Z0X.gif" width="100%" alt="embedded-systems-banner">
@@ -166,3 +169,11 @@ Hi, I'm **ShaileshKumar Zanjare**
 <p align="center">
  <img src="https://visitcount.itsvg.in/api?id=shaileshkumar11&icon=0&color=6" />
 </p>
+
+
+
+--!>
+
+
+-->
+
