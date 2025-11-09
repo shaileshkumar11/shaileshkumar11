@@ -86,28 +86,21 @@ Hi, I'm **ShaileshKumar Zanjare**
 
 
 
-<!--
-<!--
-
-<!-- Top Animated Banner -->
+<!-- Clean Blue Engineering Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Z9a9Z0X.gif" width="100%" alt="embedded-systems-banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0077FF&height=220&section=header&text=Shailesh%20Kumar%20Zanjare&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=twinkling">
 </p>
 
-<!-- Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4200&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+My+Embedded+World!;I'm+ShaileshKumar+Zanjare;Embedded+Systems+Engineer;STM32+%7C+FreeRTOS;IoT+%7C+Firmware+Developer">
-</h1>
+<h3 align="center">Embedded Systems Engineer | STM32 | FreeRTOS | IoT | Firmware Development</h3>
 
 ---
 
-## 💫 About Me:
-👋 Hi, I'm **Shailesh Kumar Zanjare**  
-🎓 **Electronics & Telecommunication Engineer**  
-✅ **PG-DESD | C-DAC Sunbeam Pune**  
-🔧 Skilled in **STM32 | Embedded C | FreeRTOS | ESP32 | IoT | Hardware Interfacing**  
-🚀 Focus: Building **Real-Time, Efficient & Reliable Embedded Systems**  
-📩 **Email:** `shaileshzanjareofficial@gmail.com`
+## 💫 About Me
+- 🎓 **Electronics & Telecommunication Engineer**
+- ✅ **PG-DESD, C-DAC Sunbeam Pune**
+- 🔧 **Embedded C, STM32 HAL, FreeRTOS, ESP32, IoT**
+- ⚡ Interested in **Real-Time, Low-Level & Hardware Integrated Systems**
+- 📩 Email: **shaileshzanjareofficial@gmail.com**
 
 ---
 
@@ -120,60 +113,71 @@ Hi, I'm **ShaileshKumar Zanjare**
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,linux,arduino" height="50">
-  <img src="https://img.shields.io/badge/Embedded%20C-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,linux,arduino" height="48">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-005F9E?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
   <img src="https://img.shields.io/badge/FreeRTOS-3949AB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/Embedded%20C-blue?style=for-the-badge">
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 **COVAS – Collision Avoidance & Vehicle Automation System**
-- Dual **STM32F407** Controller Architecture  
-- **CAN Communication** between nodes  
-- **IR-Based Collision Detection**  
-- **Rain Sensing Wiper Control**
+### 🚗 COVAS – Collision Avoidance & Vehicle Automation (STM32 + CAN)
+- Dual **STM32F407** Controllers
+- **CAN Bus Communication**
+- **IR Collision Detection**
+- **Rain Sensor Wiper Automation**
 
-### 🛗 **Voice Operated Lift Control System (IoT + Safety)**
-- Voice-based Floor Selection  
-- Flame / Temperature / Load Monitoring  
-- **Wi-Fi (ESP8266)** Remote Status Monitoring  
+### 🛗 Voice Operated Lift System (IoT + Safety)
+- Voice-Controlled Elevator Panel
+- **Safety Sensors:** Flame, Load, Temperature
+- **ESP8266 Wi-Fi** Remote Monitoring
 
 ---
 
-## 📊 GitHub Overview (Clean Minimal Style)
+## 📊 GitHub Overview
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shaileshkumar11&show_icons=false&hide_title=true&hide_border=true&text_color=00FFCC&icon_color=00FFCC&bg_color=00000000" height="140">
+<img src="https://github-readme-stats.vercel.app/api?username=shaileshkumar11&show_icons=true&theme=tokyonight&hide_border=true" height="160">
 </p>
 
 ---
 
-## 🐍 Contribution Activity Animation
+## 🧩 3D Profile Summary Card (NEW ✅)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shaileshkumar11/shaileshkumar11/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaileshkumar11&theme=tokyonight" width="95%">
 </p>
 
 ---
 
-## ✍️ Dev Quote  
+## 🕰 Activity Timeline (NEW ✅)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaileshkumar11&theme=tokyonight&utcOffset=5.5" width="75%">
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shaileshkumar11/shaileshkumar11/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## ✍️ Dev Quote
 > *"Great things are done by a series of small things brought together."*
 
 ---
 
-### 👁‍🗨 Profile Views  
+### 👁 Profile Views
 <p align="center">
  <img src="https://visitcount.itsvg.in/api?id=shaileshkumar11&icon=0&color=6" />
 </p>
 
-
-
---!>
-
-
--->
 
